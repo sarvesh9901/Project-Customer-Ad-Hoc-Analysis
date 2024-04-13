@@ -1,7 +1,7 @@
-## Atliq Hardwares Data Analytics Challenge
+## Customer Ad_Hoc Analysis
 
 ### Problem Statement:
-Atliq Hardwares, a leading computer hardware producer, aims to enhance data-driven decision-making by expanding its data analytics team. To assess the skills of potential candidates, a SQL challenge has been devised. The challenge involves analyzing 10 ad hoc requests outlined in 'ad-hoc-requests.pdf' and presenting the insights to top-level management.
+Atliq Hardwares, a leading computer hardware producer, aims to enhance data-driven decision-making by expanding its data analytics team. To assess the skills of potential candidates, a SQL challenge has been devised. The challenge involves analyzing 10 ad hoc requests outlined in 'customers_ad-hoc-request.pdf' and presenting the insights to top-level management.
 
 ### Approach:
 1. **Understanding Business Needs**: Review the 10 ad hoc requests to grasp the business requirements and objectives.
